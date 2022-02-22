@@ -3,7 +3,7 @@ import controller from '../controllers/posts';
 const router = express.Router();
 
 /**
- * This is on feature branch feat-1234
+ * This is on main branch
  */
 
 
