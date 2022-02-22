@@ -3,7 +3,7 @@ import axios, { AxiosResponse } from 'axios';
 
 
 /**
- * This is on feature branch feat-1234
+ * This is on main branch
  */
 
 interface Post {
