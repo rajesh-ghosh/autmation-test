@@ -14,6 +14,10 @@ const router = express.Router();
  * one more main commit M3
  */
 
+/**
+ * post m3 feature commit F4
+ */
+
 router.get('/posts', controller.getPosts);
 
 export = router;
